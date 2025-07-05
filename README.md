@@ -1,4 +1,3 @@
-```markdown
 # 🍄 Mushroom Classification Playground — Kaggle 2024
 
 ## Overview
@@ -80,4 +79,3 @@ The goal of the **Tabular Playground Series** is to provide the Kaggle community
 This dataset was generated synthetically from real-world data. While it closely resembles the original, there may be categorical values not found in the UCI dataset. Handling these artifacts is part of the challenge.
 
 Please feel free to give feedback on how we can improve future synthetic datasets!
-```
