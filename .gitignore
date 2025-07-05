@@ -1,0 +1,8 @@
+# Игнорируем все файлы в папках images, test, train, val и new_images
+/images/*
+
+
+# Дополнительные правила (если нужно):
+*.log
+/node_modules
+.DS_Store
